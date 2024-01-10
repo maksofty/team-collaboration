@@ -8,7 +8,7 @@ package electricity.billing.system;
 package electricity.billing.system;
 
    //that is good
-//ok
+//there is nothing to do
 import javax.swing.*;
 import javax.swing.border.*;
 import java.awt.*;
