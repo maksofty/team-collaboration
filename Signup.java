@@ -1,5 +1,5 @@
 
-
+//Billing system
 package electricity.billing.system;
 
 import javax.swing.*;
