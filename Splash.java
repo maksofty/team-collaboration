@@ -24,7 +24,7 @@ public class Splash extends JFrame implements Runnable {
             } catch (Exception e) {
                 e.printStackTrace();
             }
-        }
+        }                                   
         
         t = new Thread(this);
         t.start();
